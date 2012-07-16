@@ -12,3 +12,9 @@ python backup.py
 ```
 
 You will find your logs in folder logs. Oh, and it´s going to take a long time... So download a movie or something...
+
+
+About the quality of code:
+========================
+
+It sucks.
