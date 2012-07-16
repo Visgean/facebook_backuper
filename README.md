@@ -11,4 +11,4 @@ How to use it?
 python backup.py
 ```
 
-Thats it.
+You will find your logs in folder logs. Oh, and it´s going to take a long time... So download a movie or something...
