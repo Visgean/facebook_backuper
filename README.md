@@ -1,6 +1,9 @@
 facebook_backuper
 =================
 
+Download [HERE](https://github.com/Visgean/facebook_backuper/zipball/master)
+--------------
+
 Tool for backuping all facebook messages
 
 You need facebook API token, you can get one [here](https://developers.facebook.com/tools/explorer?), do not forget to check read_inbox permission. (Well, it would be best for you if you check them all :))
